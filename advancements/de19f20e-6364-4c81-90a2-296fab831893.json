@@ -23,25 +23,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2021-10-28 13:43:13 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2021-10-28 13:43:13 +0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2021-10-28 13:43:13 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2021-10-28 13:43:13 +0500"
     },
@@ -59,11 +41,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2021-10-28 13:43:13 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-10-28 13:43:13 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2021-10-28 13:43:13 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2021-10-28 13:43:13 +0500"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2021-12-31 15:25:05 +0500"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -71,5 +77,5 @@
     },
     "done": true
   },
-  "DataVersion": 2730
+  "DataVersion": 2865
 }
